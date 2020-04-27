@@ -1,4 +1,4 @@
-# This project uses data obtained from the NYTimes and the Census. Data from the NYTimes contains cumulative numbers of Coronavirus cases and related deaths beginning January 21, 2020. I pull race and sex Census data from the ACS 5-year survey as of 2018. Using this data to understand reports of Coronavirus and related deaths affecting people of color, specifically African Americans, at higher rates than it does white people.
+This project uses data obtained from the NYTimes and the Census. Data from the NYTimes contains cumulative numbers of Coronavirus cases and related deaths beginning January 21, 2020. I pull race and sex Census data from the ACS 5-year survey as of 2018. Using this data to understand reports of Coronavirus and related deaths affecting people of color, specifically African Americans, at higher rates than it does white people.
 For this instance we use California. Download NYTimes Covid data https://github.com/nytimes/covid-19-data
 
 # Initial script to acquire and organize Census data
